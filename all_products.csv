@@ -1,0 +1,97 @@
+Product Name,Price,Category,Ratings,Number of Reviews,Price Ratings(high/low)
+Packard 255 G2,416.99,Laptops,0,2,low
+Aspire E1-510,306.99,Laptops,0,2,low
+ThinkPad T540p,1178.99,Laptops,0,2,high
+ProBook,739.99,Laptops,0,8,low
+ThinkPad X240,1311.99,Laptops,0,12,high
+Aspire E1-572G,581.99,Laptops,0,2,low
+ThinkPad Yoga,1033.99,Laptops,0,13,high
+Pavilion,609.99,Laptops,0,4,low
+Inspiron 15,745.99,Laptops,0,12,low
+Dell XPS 13,1281.99,Laptops,0,4,high
+ThinkPad X230,1244.99,Laptops,0,10,high
+HP 250 G3,520.99,Laptops,0,13,low
+ThinkPad Yoga,1223.99,Laptops,0,2,high
+HP 350 G1,577.99,Laptops,0,10,low
+Asus VivoBook...,399,Laptops,0,4,low
+Dell Vostro 15,488.78,Laptops,0,14,low
+Acer Spin 5,564.98,Laptops,0,0,low
+Acer Aspire A5...,679,Laptops,0,9,low
+Dell Inspiron...,679,Laptops,0,7,low
+Asus VivoBook...,729,Laptops,0,2,low
+Asus ROG STRIX...,799,Laptops,0,7,low
+Acer Nitro 5 A...,809,Laptops,0,0,low
+Asus ROG STRIX...,899,Laptops,0,7,low
+Lenovo ThinkPa...,999,Laptops,0,11,low
+Lenovo Legion...,1149,Laptops,0,11,high
+Lenovo Legion...,1399,Laptops,0,8,high
+Asus ROG Strix...,1769,Laptops,0,7,high
+Asus ROG Strix...,1769,Laptops,0,8,high
+Asus ROG Strix...,1799,Laptops,0,8,high
+Asus VivoBook...,295.99,Laptops,0,14,low
+Prestigio Smar...,299,Laptops,0,8,low
+Prestigio Smar...,299,Laptops,0,12,low
+Lenovo V110-15...,321.94,Laptops,0,5,low
+Lenovo V110-15...,356.49,Laptops,0,6,low
+Hewlett Packar...,364.46,Laptops,0,12,low
+Acer Aspire 3...,372.7,Laptops,0,2,low
+Acer Aspire A3...,379.94,Laptops,0,0,low
+Acer Aspire ES...,379.95,Laptops,0,9,low
+Acer Aspire 3...,391.48,Laptops,0,10,low
+Acer Aspire 3...,393.88,Laptops,0,9,low
+Asus VivoBook...,399.99,Laptops,0,3,low
+Lenovo ThinkPa...,404.23,Laptops,0,12,low
+Acer Aspire 3...,408.98,Laptops,0,10,low
+Lenovo V110-15...,409.63,Laptops,0,9,low
+Acer Aspire ES...,410.46,Laptops,0,14,low
+Asus VivoBook...,410.66,Laptops,0,4,low
+Asus EeeBook R...,433.3,Laptops,0,1,low
+Acer Aspire 3...,436.29,Laptops,0,1,low
+Acer Aspire ES...,436.29,Laptops,0,2,low
+Acer Extensa 1...,439.73,Laptops,0,6,low
+Acer Aspire ES...,454.62,Laptops,0,9,low
+Lenovo V110-15...,454.73,Laptops,0,2,low
+Acer Aspire A3...,457.38,Laptops,0,9,low
+Lenovo V110-15...,465.95,Laptops,0,7,low
+Asus VivoBook...,468.56,Laptops,0,1,low
+Acer Aspire ES...,469.1,Laptops,0,5,low
+Lenovo V510 Bl...,484.23,Laptops,0,8,low
+Acer Aspire ES...,485.9,Laptops,0,6,low
+Lenovo V510 Bl...,487.8,Laptops,0,9,low
+Acer Swift 1 S...,488.64,Laptops,0,4,low
+Acer Aspire 3...,494.71,Laptops,0,2,low
+Dell Vostro 15...,497.17,Laptops,0,9,low
+Lenovo V510 Bl...,498.23,Laptops,0,5,low
+Lenovo ThinkPa...,1096.02,Laptops,0,14,high
+Dell Inspiron...,1098.42,Laptops,0,7,high
+MSI GL72M 7RDX,1099,Laptops,0,1,high
+Lenovo IdeaTab,69.99,Tablets,0,7,low
+Acer Iconia,96.99,Tablets,0,7,low
+Asus MeMO Pad,102.99,Tablets,0,14,low
+Amazon Kindle,103.99,Tablets,0,3,low
+iPad Mini Reti...,537.99,Tablets,0,8,low
+IdeaTab A3500L,88.99,Tablets,0,7,low
+Galaxy Tab,251.99,Tablets,0,14,low
+IdeaTab A3500-...,148.99,Tablets,0,9,low
+Galaxy Tab 3,97.99,Tablets,0,2,low
+Galaxy Note,489.99,Tablets,0,9,low
+MeMO Pad 7,130.99,Tablets,0,11,low
+Galaxy Tab 4,233.99,Tablets,0,1,low
+Galaxy Tab 3,107.99,Tablets,0,14,low
+Memo Pad HD 7,101.99,Tablets,0,10,low
+Galaxy Note 10...,587.99,Tablets,0,6,low
+MeMo PAD FHD 1...,320.99,Tablets,0,7,low
+IdeaTab S5000,172.99,Tablets,0,8,low
+Iconia B1-730H...,99.99,Tablets,0,1,low
+IdeaTab A8-50,121.99,Tablets,0,13,low
+Galaxy Note,399.99,Tablets,0,12,low
+Apple iPad Air,603.99,Tablets,0,7,low
+Nokia 123,24.99,Phones,0,11,low
+LG Optimus,57.99,Phones,0,11,low
+Samsung Galaxy,93.99,Phones,0,3,low
+Nokia X,109.99,Phones,0,4,low
+Sony Xperia,118.99,Phones,0,6,low
+Ubuntu Edge,499.99,Phones,0,2,low
+Iphone,899.99,Phones,0,10,low
+Iphone,899.99,Phones,0,8,low
+Iphone,899.99,Phones,0,1,low
